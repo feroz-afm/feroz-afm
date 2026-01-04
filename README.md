@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="MD Feroz Ahmed Profile Banner" width="100%" />
+</p>
 
 <!--
 **feroz-afm/feroz-afm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
