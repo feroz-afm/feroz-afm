@@ -11,15 +11,11 @@ Deep Learning and applied Machine Learning. I work on developing and evaluating
 data-driven models for real-world problems, with particular interest in
 computer vision, neural networks, and ensemble-based approaches.
 
----
-
 ## Research Interests
 - Data Science and Applied Machine Learning  
 - Computer Vision and Deep Learning  
 - Neural Networks, Representation Learning, and Model Ensembling  
 - Research-driven experimentation and performance analysis  
-
----
 
 ## Technical Background
 - Programming: Python, C++  
@@ -27,7 +23,6 @@ computer vision, neural networks, and ensemble-based approaches.
 - Data Analysis: Pandas, NumPy, Polars  
 - Research Practice: Experiment design, model evaluation, reproducibility  
 
----
 
 I am interested in research-focused collaboration, competitive machine learning,
 and projects that bridge data science with real-world impact.
@@ -37,19 +32,18 @@ and projects that bridge data science with real-world impact.
 
 <p align="center">
   <a href="https://www.kaggle.com/mdferozahmedafm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="36" height="36"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://codeforces.com/profile/feroz_cse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="36" height="36"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/feroz.ahmed.01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="36" height="36"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/feroz-ahmed-861072389/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36" height="36"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
