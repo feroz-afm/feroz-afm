@@ -4,6 +4,15 @@
 </p>
 
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/guihub.gif"
+       width="700"
+       alt="AI Platform Visualization"/>
+</p>
+>
+
 # Md Feroz Ahmed
 
 Research-Oriented Data Scientist and Computer Vision Engineer with a strong focus on
