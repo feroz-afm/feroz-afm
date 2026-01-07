@@ -4,17 +4,52 @@
 </p>
 
 
-<!--
-**feroz-afm/feroz-afm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Md Feroz Ahmed
 
-Here are some ideas to get you started:
+Research-Oriented Data Scientist and Computer Vision Engineer with a strong focus on
+Deep Learning and applied Machine Learning. I work on developing and evaluating
+data-driven models for real-world problems, with particular interest in
+computer vision, neural networks, and ensemble-based approaches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+- Data Science and Applied Machine Learning  
+- Computer Vision and Deep Learning  
+- Neural Networks, Representation Learning, and Model Ensembling  
+- Research-driven experimentation and performance analysis  
+
+---
+
+## Technical Background
+- Programming: Python, C++  
+- Machine Learning & Deep Learning: PyTorch, TensorFlow, Scikit-learn  
+- Data Analysis: Pandas, NumPy, Polars  
+- Research Practice: Experiment design, model evaluation, reproducibility  
+
+---
+
+I am interested in research-focused collaboration, competitive machine learning,
+and projects that bridge data science with real-world impact.
+
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.kaggle.com/mdferozahmedafm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="36" height="36"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/feroz_cse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="36" height="36"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/feroz.ahmed.01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="36" height="36"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/feroz-ahmed-861072389/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36" height="36"/>
+  </a>
+</p>
+
