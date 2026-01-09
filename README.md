@@ -47,7 +47,6 @@ and projects that bridge data science with real-world impact.
   </a>
 </p>
 
-
 <br>
 
 <p align="center">
