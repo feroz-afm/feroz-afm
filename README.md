@@ -13,7 +13,7 @@ computer vision, neural networks, and ensemble-based approaches.
 ## Research Interests
 - Data Science and Applied Machine Learning  
 - Computer Vision and Deep Learning  
-- Neural Networks, Representation Learning, and Model Ensembling  
+- Neural Networks, Representation Learning,and Model Ensembling  
 - Research-driven experimentation and performance analysis  
 
 ## Technical Background
