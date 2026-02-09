@@ -23,7 +23,7 @@ computer vision, neural networks, and ensemble-based approaches.
 - Research Practice: Experiment design, model evaluation, reproducibility  
 
 
-I am interested in research-focused collaboration, competitive machine learning,
+I am interested in research focused collaboration, competitive machine learning,
 and projects that bridge data science with real-world impact.
 
 
