@@ -52,15 +52,11 @@ and projects that bridge data science with real-world impact.
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/feroz-afm/feroz-afm/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/feroz-afm/feroz-afm/blob/output/github-snake.svg" />
-    <img src="https://github.com/feroz-afm/feroz-afm/blob/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/feroz-afm/feroz-afm/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 ## 🧩 GitHub Workflow
