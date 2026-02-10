@@ -27,6 +27,61 @@ I am interested in research focused collaboration, competitive machine learning,
 and projects that bridge data science with real-world impact.
 
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=feroz-afm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=feroz-afm&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feroz-afm&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
+## 📈 My GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&theme=github-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&theme=github&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&hide_border=true" />
+  </picture>
+</p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/feroz-afm/feroz-afm/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/feroz-afm/feroz-afm/blob/output/github-snake.svg" />
+    <img src="https://github.com/feroz-afm/feroz-afm/blob/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+
+## 🧩 GitHub Workflow
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/profile-3d-contrib/profile-green.svg" />
+    <img width="850"
+      src="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/profile-3d-contrib/profile-green.svg" />
+  </picture>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=forward%2C+one+step+at+a+time." />
+</p>
+
+
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
