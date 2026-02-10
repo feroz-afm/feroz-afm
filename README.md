@@ -50,7 +50,7 @@ and projects that bridge data science with real-world impact.
 </p>
 
 
-## 🐍 Contribution Snake
+# Hi there 👋 I'm Feroz Ahmed
 
 ## 🐍 Contribution Snake
 <p align="center">
