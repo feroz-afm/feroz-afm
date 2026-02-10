@@ -50,28 +50,6 @@ and projects that bridge data science with real-world impact.
 </p>
 
 
-# Hi there 👋 I'm Feroz Ahmed
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/feroz-afm/feroz-afm/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
-## 🧩 GitHub Workflow
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/profile-3d-contrib/profile-green.svg" />
-    <img width="850"
-      src="https://raw.githubusercontent.com/feroz-afm/feroz-afm/main/profile-3d-contrib/profile-green.svg" />
-  </picture>
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=forward%2C+one+step+at+a+time." />
