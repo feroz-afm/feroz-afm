@@ -27,7 +27,7 @@ I am interested in research focused collaboration, competitive machine learning,
 and projects that bridge data science with real-world impact.
 
 
-## 📊 GitHub Stats
+
 
 ![](https://github-readme-stats.vercel.app/api?username=feroz-afm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -37,7 +37,7 @@ and projects that bridge data science with real-world impact.
 
 ---
 
-## 📈 My GitHub Activity
+
 
 <p align="center">
   <picture>
