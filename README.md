@@ -30,7 +30,7 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 
 ---
 
-## 🌐 Connect with Me!
+##  Connect with Me!
 
 <p>
   <a href="https://github.com/feroz-afm" target="_blank">
@@ -50,20 +50,20 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
   </a>
 </p>
 
-📧 **Email:** ferozahmedafm@gmail.com  
-📱 **Phone:** +880 1794525185
+ **Email:** ferozahmedafm@gmail.com  
+ **Phone:** +880 1794525185
 
 ---
 
-## 🧠 AI / ML / Computer Vision Stack
+##  AI / ML / Computer Vision Stack
 
-### 📌 Core Languages
+###  Core Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-### 📌 ML / DL Frameworks
+###  ML / DL Frameworks
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -74,7 +74,7 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
 </p>
 
-### 📌 Computer Vision
+###  Computer Vision
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
@@ -85,14 +85,14 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
   <img src="https://img.shields.io/badge/OpenMMLab-111827?style=for-the-badge"/>
 </p>
 
-### 📌 NLP / GenAI (Optional but useful)
+###  NLP / GenAI (Optional but useful)
 <p>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge"/>
 </p>
 
-### 📌 Data Science Stack
+###  Data Science Stack
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -101,14 +101,14 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
   <img src="https://img.shields.io/badge/Seaborn-1F2937?style=for-the-badge"/>
 </p>
 
-### 📌 Experiment Tracking / MLOps
+###  Experiment Tracking / MLOps
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge"/>
 </p>
 
-### 📌 Deployment / APIs
+###  Deployment / APIs
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -116,7 +116,7 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
   <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge"/>
 </p>
 
-### 📌 Cloud / Tools
+###  Cloud / Tools
 <p>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
@@ -129,7 +129,7 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 
 ---
 
-## 💻 Programming <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px">
+##  Programming <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px">
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -176,27 +176,9 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 
 
 
-## Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/ashiqur0/ashiqur0/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/ashiqur0/ashiqur0/blob/output/github-snake.svg" />
-    <img alt="github snake"
-      src="https://github.com/ashiqur0/ashiqur0/blob/output/github-snake-dark.svg" />
-  </picture>
-</p>
+>
 
-## Github Workflow
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ashiqur0/ashiqur0/main/profile-3d-contrib/profile-night-green.svg" />
-    <img width="850"
-      src="https://raw.githubusercontent.com/ashiqur0/ashiqur0/main/profile-3d-contrib/profile-green.svg" />
-  </picture>
 </p>
 
 <p align="center">
