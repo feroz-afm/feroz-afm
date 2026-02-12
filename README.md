@@ -9,16 +9,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
   </p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1100&lines=I'm+Md+Feroz+Ahmed%2C+a+Computer+Vision+%26+AI%2FML+Engineer" />
-  </p>
+ 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&lines=Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A7%A0;Deep+Learning+%26+Model+Training+%F0%9F%A7%AA;Image+%26+Video+Analysis+%F0%9F%8E%9E%EF%B8%8F;Research+%26+Experimentation+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
-</div>
 
-<!-- Header Typing -->
 !-- Header Typing -->
 <div align="center">
   <p align="center">
