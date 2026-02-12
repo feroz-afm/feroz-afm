@@ -3,11 +3,7 @@
   <img src="MD FEROZ AHMED.png" alt="MD Feroz Ahmed Profile Banner" width="100%" />
 </p>
 
-<!-- Right Side GIF -->
-<div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=" />
-  </p>
+>
 
  
 
