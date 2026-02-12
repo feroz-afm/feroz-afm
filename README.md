@@ -18,17 +18,34 @@
   </a>
 </div>
 
+<!-- Header Typing -->
+<div align="center">
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1200&lines=I'm+Md+Feroz+Ahmed%2C+a+Computer+Vision+%26+AI%2FML+Engineer" />
+  </p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=Applied+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Deep+Learning+Modeling+%F0%9F%A7%A0;Image+%26+Video+Understanding+%F0%9F%8E%9E%EF%B8%8F;Research-Driven+AI+Systems+%F0%9F%93%9A;Deployment+%26+Optimization+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</div>
+
 ---
 
+<!-- Professional Summary -->
 <img align="right" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="400"/>
 
-I’m a motivated Computer Vision and AI/ML enthusiast, focused on building practical machine learning solutions and exploring research-driven ideas in image and video understanding.
+I am a Computer Vision and AI/ML engineer focused on building practical, research-driven intelligent systems for real-world image and video understanding.
 
-I work with data preparation, model training, evaluation, and experimentation, aiming for clean, reproducible workflows and meaningful results.
+My work includes data preparation, model training, evaluation, and optimization, with an emphasis on clean, reproducible workflows and measurable results.
 
-Driven by continuous learning, I adapt quickly to new tools, communicate clearly, and maintain a professional mindset while growing as an AI engineer and researcher.
+I aim to design scalable, efficient AI solutions and continuously improve through research, experimentation, and implementation.
 
 ---
+
 
 ##  Connect with Me!
 
