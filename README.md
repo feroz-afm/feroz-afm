@@ -22,9 +22,32 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=1000&lines=Applied+Computer+Vision;Deep+Learning+Modeling;Image+%26+Video+Understanding;Research-Driven+AI+Systems;Deployment+%26+Optimization" alt="Typing SVG" />
   </a>
 </div>
----
+
 
 <!-- Professional Summary -->
+# Md Feroz Ahmed
+
+Research-Oriented Data Scientist and Computer Vision Engineer with a strong focus on
+Deep Learning and applied Machine Learning. I work on developing and evaluating
+data-driven models for real-world problems, with particular interest in
+computer vision, neural networks, and ensemble-based approaches.
+
+## Research Interests
+- Data Science and Applied Machine Learning  
+- Computer Vision and Deep Learning  
+- Neural Networks, Representation Learning,and Model Ensembling  
+- Research-driven experimentation and performance analysis  
+
+## Technical Background
+- Programming: Python, C++  
+- Machine Learning & Deep Learning: PyTorch, TensorFlow, Scikit-learn  
+- Data Analysis: Pandas, NumPy, Polars  
+- Research Practice: Experiment design, model evaluation, reproducibility  
+
+
+I am interested in research focused collaboration, competitive machine learning,
+and projects that bridge data science with real-world impact.
+
 <img align="right" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="400"/>
 
 I am a Computer Vision and AI/ML engineer focused on building practical, research-driven intelligent systems for real-world image and video understanding.
@@ -33,7 +56,6 @@ My work includes data preparation, model training, evaluation, and optimization,
 
 I aim to design scalable, efficient AI solutions and continuously improve through research, experimentation, and implementation.
 
----
 
 
 ##  Connect with Me!
