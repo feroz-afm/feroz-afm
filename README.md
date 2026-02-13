@@ -8,7 +8,6 @@
  
 
 
-
 <div align="center">
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=700&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
