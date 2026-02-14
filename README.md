@@ -47,6 +47,7 @@ computer vision, neural networks, and ensemble-based approaches.
 I am interested in research focused collaboration, competitive machine learning,
 and projects that bridge data science with real-world impact.
 
+
 <img align="right" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="400"/>
 
 I am a Computer Vision and AI/ML engineer focused on building practical, research-driven intelligent systems for real-world image and video understanding.
