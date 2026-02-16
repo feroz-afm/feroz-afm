@@ -113,7 +113,7 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
   <img src="https://img.shields.io/badge/OpenMMLab-111827?style=for-the-badge"/>
 </p>
 
-###  NLP / GenAI (Optional but useful)
+###  NLP / GenAI
 <p>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge"/>
