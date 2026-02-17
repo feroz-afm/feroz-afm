@@ -175,7 +175,6 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
 ---
 
 ##  GitHub Stats:
