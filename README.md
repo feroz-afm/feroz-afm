@@ -193,7 +193,6 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
 [![](https://visitcount.itsvg.in/api?id=feroz-afm&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
-
 <p align="center">© 2026 Md Feroz Ahmed</p>
 
 >
