@@ -17,7 +17,6 @@
   </a>
 </div>
 
-
 <!-- Professional Summary -->
 # Md Feroz Ahmed
 
