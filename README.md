@@ -18,6 +18,7 @@
 </div>
 
 <!-- Professional Summary -->
+
 # Md Feroz Ahmed
 
 Research-Oriented Data Scientist and Computer Vision Engineer with a strong focus on
