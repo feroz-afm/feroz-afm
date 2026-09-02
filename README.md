@@ -206,3 +206,11 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
        alt="AI Platform Visualization"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&theme=github-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
+</p>
+
