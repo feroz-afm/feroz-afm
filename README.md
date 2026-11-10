@@ -191,6 +191,12 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
   </picture>
 </p>
 
+## 3D Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=feroz-afm&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
