@@ -1,0 +1,33 @@
+name: Activity Graph
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/activity_graph.py, .github/workflows/activity-graph.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          DAYS: "90"
+        run: python3 scripts/activity_graph.py
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add activity-graph
+          if git commit -m "Update activity graph"; then
+            git pull --rebase origin main
+            git push
+          fi

@@ -180,14 +180,9 @@ I aim to design scalable, efficient AI solutions and continuously improve throug
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&theme=github-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&theme=github&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=feroz-afm&hide_border=true"
-      alt="GitHub Activity Graph"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="activity-graph/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="activity-graph/activity-light.svg" />
+    <img src="activity-graph/activity-dark.svg" alt="Daily GitHub Contributions" width="100%" />
   </picture>
 </p>
 
